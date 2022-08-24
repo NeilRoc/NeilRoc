@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NeilRoc
-- 👀 I’m interested in ...Sales and Data
+- 👀 I’m interested in ...Sales
 - 🌱 I’m currently learning ...SQL
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...nathanielroco@gmail.com
